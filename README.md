@@ -16,19 +16,19 @@ Sebelum memulai menyentuh repository, pastikan komputer teman-teman memenuhi pra
 2. Clone repository teman-teman yang sudah di fork
 
 ```
-$ git clone https://gitlab.com/[username_kalian]/binar-challenge-chapter-8.git
+$ git clone https://gitlab.com/[username_kalian]/c8-challenge.git
 ```
 
 atau
 
 ```
-$ git clone git@gitlab.com:username_kalian/binar-challenge-chapter-8.git
+$ git clone https://github.com/username_kalian/c8-challenge.git
 ```
 
 3. Pindah ke folder repository
 
 ```
-$ cd binar-challenge-chapter-8
+$ cd c8-challenge
 ```
 
 3. Install dependencies
